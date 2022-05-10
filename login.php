@@ -28,7 +28,7 @@
           </li>
           <li class="nav-item">
             <a href="#" class="nav-link">
-              <i class="material-icons">login</i> Login
+              <i class="material-icons">login</i> Logueate
             </a>
           </li>
           <li class="nav-item">
